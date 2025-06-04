@@ -24,7 +24,7 @@ Proyek ini menggunakan Laravel 10, proyek ini berisikan sistem untuk melakukan p
   php artisan key:generate
   ```
 - Buat database dengan nama ***kpi***
-- Buka folder kpi pada VScode, kemudian sesuaikan parameter pada file **.env**, seperti berikut:
+- Buka folder kpi pada VScode atau editor lainnya, kemudian sesuaikan parameter pada file **.env**, seperti berikut:
   ```
   APP_URL=http://localhost
 
